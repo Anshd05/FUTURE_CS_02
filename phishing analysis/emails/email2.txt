@@ -1,0 +1,14 @@
+From: [support@micr0soft-security.com](mailto:support@micr0soft-security.com)
+
+Dear User,
+
+We detected unusual login activity on your Microsoft account.
+
+To prevent temporary suspension, verify your account immediately using the secure link below:
+
+[http://microsoft-account-secure-check[.]com](http://microsoft-account-secure-check[.]com)
+
+Failure to verify within 12 hours may result in limited access.
+
+Regards,
+Microsoft Security Team

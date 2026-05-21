@@ -1,0 +1,12 @@
+From: security@paypa1-support.com
+Subject: URGENT! Verify Your Account
+
+Dear Customer,
+
+Your PayPal account will be locked.
+Click below immediately:
+
+http://secure-account-verify[.]com
+
+Regards,
+PayPal Security Team
